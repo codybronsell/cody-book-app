@@ -10,7 +10,11 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Cody Bronsell",
+  "repository": {
+    "type": "git",
+    "url": "git@work.github.com:codybronsell/cody-book-app.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
